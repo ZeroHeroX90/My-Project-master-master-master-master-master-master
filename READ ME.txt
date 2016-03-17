@@ -1,0 +1,31 @@
+Hello there, friend. Or are you just in my head. Enough about relativity. Let's get down to buisness.
+
+=====================================================================================================
+Construct: 
+
+As a fun project, most related to the CV job candatate extra experiance part i will make this
+my "little experiment". I will design a website using all my knowledge that I've gotten from school thus far.
+PHP, JavaScript, HTMl CSS, Bootstrap. I will also be making a game platform compatible with most software 
+application handlers, OSs Etc.. I will use a new coding language for me called Python, it is etirely new for me
+and it will be fun to try it out as a part of my main, big, project. Now i wouldn't say that I'm a fast coder, especially 
+when i have no team backing me up. This will be a solo dive and only me can help me out. Now.. let's see what my big stupid 10% brain can do.
+
+=====================================================================================================
+
+Day one(2016-02-14 aka valentines day, ughh):
+
+Figured out an idea, construct something with the knowledge that is currently given to you and try expanding that knowledge.
+- Plan a website template
+- Plan a game platform for desktop
+- Plan Game story
+- Plan... well, im too tired to come up with something else right now, so let's keep it small shall we?
+
+elif {
+	structuring folders for maximum ease in handling my project.
+	trying to figure out a name for my project. ['Type game name here'];
+	trying to figure out a logo for my project ['Type image url here'];
+
+}
+
+=====================================================================================================
+
